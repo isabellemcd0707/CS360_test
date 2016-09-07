@@ -1,0 +1,1 @@
+This is the vim text editor. Much beloved and maligned in the world.
